@@ -1,0 +1,6 @@
+Course Name: Science
+Lecturer: Ali
+Total students enrolled: 19
+Male percentage: 58.0 %
+Female Percentage: 42.0 %
+-----------------------------------------------------------
