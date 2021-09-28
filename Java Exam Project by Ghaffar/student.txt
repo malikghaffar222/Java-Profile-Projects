@@ -1,0 +1,10 @@
+s.no: 1
+Name: mohamed
+name: ali
+tel: 0504123456
+courses: c21,cs2,cs3
+s.no: 2
+Name: Mohsen
+name: Mohamed
+tel: 0503245714
+corses: cs1,cs2
