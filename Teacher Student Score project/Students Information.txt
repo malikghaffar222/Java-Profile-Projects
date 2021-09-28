@@ -1,0 +1,4 @@
+Total Posible Points For Exam: 70.00
+  Stu      Dent          50.00     71.43    C
+  Ali   Alharbi          63.00     90.00    A
+Molly     Jones          65.00     92.86    A
