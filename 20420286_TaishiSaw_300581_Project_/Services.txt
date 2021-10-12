@@ -1,0 +1,16 @@
+1197,Fault Diagnosis,Diagnose A/C faults as per customer description and instruction.,120.5
+1198,Fault Rectification,Rectify fault identified by Fault Diagnosis
+1200,Maintenance Service - split,12 month split system A/C maintenance service,150.25
+1201,Maintenance Service - ducted,12 month ducted system A/C maintenance service,180
+1202,Air Conditioning re-gas,Re-gas cooling system,120
+1203,Split system installation - Daikin,Supply and Install Daikin split system 3.5kW,1500
+1204,Split system installation - Fujitsu,Supply and Install Fujitsu split system 7.1kW,2500
+1205,Split system installation - ActronAir,Supply and Install ActronAir split system 5kW,1800
+1206,Split system installation - Panasonic,Supply and Install Panasonic split system 2.5kW,1000
+1207,Split system installation - Mitsubishi Electric,Supply and Install Mitsubishi Electric split system 9.4kW,3525
+1208,Ducted system installation - Daikin - 4 zone,Supply and Install Daikin 4 zone ducted A/C system,8500
+1209,Ducted system installation - Daikin - 8 zone,Supply and Install Daikin 8 zone ducted A/C system,10120.5
+1210,Ducted system installation - ActronAir - 4 zone,Supply and Install ActronAir 4 zone ducted A/C system,9600
+1211,Ducted system installation - ActronAir - 6 zone,Supply and Install ActronAir 6 zone ducted A/C system,11125
+1220,Remove Ducted system,Remove and dispose of all components of existing ducted system,1200
+1221,Upgrade Ducted system,Upgrade ducted A/C compressor and cooling segments and electronics. Keep existing ducting.,8000
