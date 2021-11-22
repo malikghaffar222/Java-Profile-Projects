@@ -1,0 +1,12 @@
+Name: abc
+VisitingDate: 01/1/1992
+Treatment Procedure: General Examination, 
+Price: 100
+Name: xyz
+VisitingDate: 01/1/1992
+Treatment Procedure: General Examination, , X-RayComposite Filling, Extraction, Whitening, 
+Price: 1950
+Name: qwe
+VisitingDate: 01/1/1992
+Treatment Procedure: General Examination, , X-RayComposite Filling, Root Canal, Extraction, Whitening, Porcelain Crown, Removal Braces, Dental Implant, 
+Price: 6050

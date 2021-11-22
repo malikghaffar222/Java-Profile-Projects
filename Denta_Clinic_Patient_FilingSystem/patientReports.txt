@@ -1,0 +1,3 @@
+100 -> General Examination, 
+1950 -> General Examination, , X-RayComposite Filling, Extraction, Whitening, 
+6050 -> General Examination, , X-RayComposite Filling, Root Canal, Extraction, Whitening, Porcelain Crown, Removal Braces, Dental Implant, 
